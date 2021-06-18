@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Recipe-app/static/css/main.48d3c1b5.chunk.css",
+    "main.js": "/Recipe-app/static/js/main.713b0c99.chunk.js",
+    "main.js.map": "/Recipe-app/static/js/main.713b0c99.chunk.js.map",
+    "runtime-main.js": "/Recipe-app/static/js/runtime-main.b5962474.js",
+    "runtime-main.js.map": "/Recipe-app/static/js/runtime-main.b5962474.js.map",
+    "static/js/2.e5d1bf2e.chunk.js": "/Recipe-app/static/js/2.e5d1bf2e.chunk.js",
+    "static/js/2.e5d1bf2e.chunk.js.map": "/Recipe-app/static/js/2.e5d1bf2e.chunk.js.map",
+    "index.html": "/Recipe-app/index.html",
+    "static/css/main.48d3c1b5.chunk.css.map": "/Recipe-app/static/css/main.48d3c1b5.chunk.css.map",
+    "static/js/2.e5d1bf2e.chunk.js.LICENSE.txt": "/Recipe-app/static/js/2.e5d1bf2e.chunk.js.LICENSE.txt",
+    "static/media/coding.0ee2fc3a.svg": "/Recipe-app/static/media/coding.0ee2fc3a.svg",
+    "static/media/diet.2f19967b.svg": "/Recipe-app/static/media/diet.2f19967b.svg",
+    "static/media/meal.9eba888b.svg": "/Recipe-app/static/media/meal.9eba888b.svg",
+    "static/media/meal2.8b3981f1.svg": "/Recipe-app/static/media/meal2.8b3981f1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5962474.js",
+    "static/js/2.e5d1bf2e.chunk.js",
+    "static/css/main.48d3c1b5.chunk.css",
+    "static/js/main.713b0c99.chunk.js"
+  ]
+}
